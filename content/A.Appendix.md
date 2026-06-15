@@ -1,4 +1,5 @@
 # Ethical Implications of the Product and Engineering Process
+This appendix discusses the main ethical considerations associated with the design, development, and potential deployment of the educational theremin. It reflects on the societal impact of the project, ethical challenges encountered during the engineering process, and the responsibilities associated with creating an accessible and sustainable educational product.
 
 ## Societal impacts
 The project will likely have a lot of positive impacts on multiple stakeholders:
