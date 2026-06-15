@@ -18,3 +18,4 @@ project:
     - title: Appendix
       children:
         - file: content/A.Appendix.md
+        - file: content/B.AppendixB.md
