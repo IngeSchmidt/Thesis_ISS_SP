@@ -171,7 +171,7 @@ project:
       ## Graphical cover options:
       # Recommended: replace the default template cover image with your own.
       # If omitted, the template's built-in cover image is used.
-      cover_background_image: content/assets/cover.png
+      cover_background_image: content/figures/fotos_theremin/DeEducationalTheremin.png
       # Legacy alias: cover_image
       
       # Graphical-cover contrast preset: white-on-dark | black-on-light. Default: white-on-dark.
@@ -277,11 +277,11 @@ project:
       
       # Show the optional cover description row in the colophon publication table. Default: false.
       show_colophon_cover_description: True
-      colophon_cover_description: The cover image is a template demonstration background.
+      colophon_cover_description: The cover image is an image of the prototype built in this project.
       
       # Show the optional confidentiality statement above the colophon publication table. Default: false.
       show_colophon_confidentiality_statement: true
-      colophon_confidentiality_statement: This thesis is confidential and cannot be made public.
+      colophon_confidentiality_statement: This thesis is open source and is publicly available.
       
       # Optional secondary logo (e.g. company or research group) shown in the colophon when provided.
       colophon_company_logo: content/assets/JBlogo.svg
@@ -289,12 +289,13 @@ project:
       # Optional fields shown in the colophon publication table:
       # colophon_printer: Printer name
       # colophon_publisher: Publisher name
-      colophon_copyright: © 2026 Student Name
+      # colophon_copyright: © 2026 Twan Klaver, Axel Koning, and Guus Rekers
+      colophon_copyright: © 2026 Inge Schmidt and Jacob Schoones
 
       
       # Optional custom text shown below the colophon publication table and above the template watermark.
-      colophon_custom_text: |
-         Optional custom colophon text below the publication table.
+      # colophon_custom_text: |
+      #    Optional custom colophon text below the publication table.
       
       # Show the MyST/Typst/JBOS template watermark note at the bottom of the colophon. Default: true.
       show_colophon_watermark: true
